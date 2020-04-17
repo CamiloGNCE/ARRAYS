@@ -7,5 +7,5 @@ public class EMPLEADO extends PERSONA
      
     }
 
-   
+        
 }
